@@ -49,12 +49,12 @@ const FloatingImage = () => {
     <div id="story" className="min-h-dvh w-screen bg-black text-blue-50">
       <div className="flex size-full flex-col items-center py-10 pb-24">
         <p className="font-general text-sm uppercase md:text-[10px]">
-          the multiversal ip world
+          Interactive Features
         </p>
 
         <div className="relative size-full">
           <AnimatedTitle
-            title="the st<b>o</b>ry of <br /> a hidden real<b>m</b>"
+            title="WhatsAPP<b>-</b>chatbot<br />Financial<b></b>-</b>Assistant"
             containerClass="mt-5 pointer-events-none mix-blend-difference relative z-10"
           />
 
@@ -67,8 +67,8 @@ const FloatingImage = () => {
                   onMouseLeave={handleMouseLeave}
                   onMouseUp={handleMouseLeave}
                   onMouseEnter={handleMouseLeave}
-                  src="/img/entrance.webp"
-                  alt="entrance.webp"
+                  src="public/img/20251122_1436_Gig Worker Financial Growth_simple_compose_01kancxw02ehtrnnrhqqgkdt8g.webp"
+                  alt="public/img/20251122_1436_Gig Worker Financial Growth_simple_compose_01kancxw02ehtrnnrhqqgkdt8g.webp"
                   className="object-contain"
                 />
               </div>
@@ -106,9 +106,7 @@ const FloatingImage = () => {
         <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
             <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
-              Where realms converge, lies Zentry and the boundless pillar.
-              Discover its secrets and shape your fate amidst infinite
-              opportunities.
+              Experience how FinSaathi's AI-powered features work together to transform your gig earnings into a stable financial foundation..
             </p>
 
             <Button

@@ -17,7 +17,7 @@ const Contact = () => {
             clipClass="contact-clip-path-1"
           />
           <ImageClipBox
-            src="/img/contact-2.webp"
+            src="public/img/about 2.png"
             clipClass="contact-clip-path-2 lg:translate-y-40 translate-y-60"
           />
         </div>
@@ -35,11 +35,11 @@ const Contact = () => {
 
         <div className="flex flex-col items-center text-center">
           <p className="mb-10 font-general text-[10px] uppercase">
-            Join Zentry
+            Join Finsaathi
           </p>
 
           <AnimatedTitle
-            title="let&#39;s b<b>u</b>ild the <br /> new era of <br /> g<b>a</b>ming t<b>o</b>gether."
+            title="Ready <b>to </b>Transform<br /> Your <br /> F<b>i</b>nancial F<b>U</b>TURE?"
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
 
