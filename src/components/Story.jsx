@@ -67,8 +67,8 @@ const FloatingImage = () => {
                   onMouseLeave={handleMouseLeave}
                   onMouseUp={handleMouseLeave}
                   onMouseEnter={handleMouseLeave}
-                  src="public/img/20251122_1436_Gig Worker Financial Growth_simple_compose_01kancxw02ehtrnnrhqqgkdt8g.webp"
-                  alt="public/img/20251122_1436_Gig Worker Financial Growth_simple_compose_01kancxw02ehtrnnrhqqgkdt8g.webp"
+                  src="public/img/20251126_0235_Financial Chatbot Interaction_remix_01kayd8zhve2cbjezr14r2cbj2.webp"
+                  alt="public/img/20251126_0235_Financial Chatbot Interaction_remix_01kayd8zhve2cbjezr14r2cbj2.webp"
                   className="object-contain"
                 />
               </div>

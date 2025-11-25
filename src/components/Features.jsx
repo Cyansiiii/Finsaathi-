@@ -156,7 +156,7 @@ Actionable financial intelligence"
 
         <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0">
           <BentoCard
-            src="videos/feature-4.mp4"
+            src="public/videos/2025-11-25T21-27-09_hey_everyone__today__watermarked-Picwand.mp4"
             title={
               <>
                 Automated<b> </b>Actions
@@ -180,7 +180,7 @@ AI takes action on your behalf."
 
         <BentoTilt className="bento-tilt_2">
           <video
-            src="videos/feature-5.mp4"
+            src="public/videos/Finsaathi_WhatsApp_Chatbot_Video-Picwand.mp4"
             loop
             muted
             autoPlay
