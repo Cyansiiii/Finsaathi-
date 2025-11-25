@@ -112,7 +112,7 @@ const Features = () => (
 
       <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
         <BentoCard
-          src="videos/feature-1.mp4"
+          src="public/videos/finsaathivideo2-vmake.mp4"
           title={
             <>
               Raw  <b>Earnings  </b>Data
@@ -141,7 +141,7 @@ Machine learning processes your patterns"
 
         <BentoTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
           <BentoCard
-            src="videos/feature-3.mp4"
+            src="public/videos/finsaathivideo4.mp4"
             title={
               <>
                 Smart <b> </b>Insights

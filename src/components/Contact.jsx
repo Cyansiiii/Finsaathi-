@@ -13,22 +13,22 @@ const Contact = () => {
       <div className="relative rounded-lg bg-black py-24 text-blue-50 sm:overflow-hidden">
         <div className="absolute -left-20 top-0 hidden h-full w-72 overflow-hidden sm:block lg:left-20 lg:w-96">
           <ImageClipBox
-            src="/img/contact-1.webp"
+            src="public/img/20251122_1432_Gig Economy Dashboard_simple_compose_01kancnapxeqs8jxq43z2q40wp.webp"
             clipClass="contact-clip-path-1"
           />
           <ImageClipBox
-            src="public/img/about 2.png"
+            src="public/img/20251122_1432_Gig Economy Dashboard_simple_compose_01kancnapzf838caft1g1jv7b3 (1).webp"
             clipClass="contact-clip-path-2 lg:translate-y-40 translate-y-60"
           />
         </div>
 
         <div className="absolute -top-40 left-20 w-60 sm:top-1/2 md:left-auto md:right-10 lg:top-20 lg:w-80">
           <ImageClipBox
-            src="/img/swordman-partial.webp"
+            src=""
             clipClass="absolute md:scale-125"
           />
           <ImageClipBox
-            src="/img/swordman.webp"
+            src="public/img/20251122_1432_Gig Economy Dashboard_simple_compose_01kancnapyfxt88gkxbsxv5s4s.webp"
             clipClass="sword-man-clip-path md:scale-125"
           />
         </div>
